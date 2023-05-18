@@ -4,7 +4,7 @@ This program describes the DNS domain names represented in classes.
 The parent class contains the data regarding the registered part name and the domain's
 registration period. It is natural that the parent class has these values as any domain have them.
 
-.com domains are belong to the class of Generic Top Leve Domains (as well as .net, .biz, .education and so on).
+.com domains are belong to the class of Generic Top Level Domains (as well as .net, .biz, .education and so on).
 
 .uk domains are considered as a Country Code domain names for United Kingdom
 
