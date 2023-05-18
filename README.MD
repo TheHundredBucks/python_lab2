@@ -8,7 +8,7 @@ registration period. It is natural that the parent class has these values as any
 
 .uk domains are considered as a Country Code domain names for United Kingdom
 
-###Here is what you should see after running main():
+### Here is what you should see after running main():
 
     myuk.uk
     bestdomain.com
